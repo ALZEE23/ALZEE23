@@ -1,6 +1,6 @@
-### Hi there, I'm [Muhamad Alfarizi](https://github.com/ALZEE23) 👋
+### [Muhamad Alfarizi](https://github.com/ALZEE23) Here
 
-I still learning from [SMKN 1 CIOMAS](https://federation.edu.au), Indonesia. Apart from that, I am a game developer who loves writing c# code(on my recent game).
+I still learning from [SMKN 1 CIOMAS](https://federation.edu.au), Indonesia. A game developer who loves writing c# code(on my recent game).
 
 **Interest In**:
 - Graphic Programmer
