@@ -1,20 +1,16 @@
 ### [Muhamad Alfarizi](https://github.com/ALZEE23) Here
 
-I still learning from [SMKN 1 CIOMAS](https://federation.edu.au), Indonesia. A game developer who loves writing c# code(on my recent game).
+Student at [SMKN 1 CIOMAS], Indonesia. A game developer who loves writing c# code & linux enthusiast.
 
 **Interest In**:
 - Graphic Programmer
 - Api 
 - Game Mechanic
 - Fullstack Web
-- Linux 
+- Linux
+- Machine Learning
 
- **I am open to**:
-
-- any collaboration work,
-- game projects(development or research),
-- research internships,
-- backend projects(development or research)
+ **I am open to any collaboration work**:
 
 ## Skills:
 
