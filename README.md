@@ -9,8 +9,6 @@ Student at SMKN 1 CIOMAS, Indonesia. A game developer who loves writing c# code 
 - Linux
 - Machine Learning
 
- **I am open to any collaboration work!!**
-
 ## Skills:
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
@@ -25,7 +23,7 @@ Student at SMKN 1 CIOMAS, Indonesia. A game developer who loves writing c# code 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
 
-## Connect with me:
+## Connect with me, I am open to any collaboration work:
 
 <p align = "center">
 
