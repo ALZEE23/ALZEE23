@@ -1,6 +1,6 @@
 ### [Muhamad Alfarizi](https://github.com/ALZEE23) Here
 
-Student at SMKN 1 CIOMAS, Indonesia. A game developer who loves writing c# code & linux enthusiast. **Interest In**:
+Student at SMKN 1 CIOMAS, Indonesia. A game developer who loves writing c# code & linux enthusiast.
 
 - Graphic Programmer
 - Api 
