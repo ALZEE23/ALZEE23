@@ -2,7 +2,7 @@
 <img align="left" src="https://github.com/ALZEE23.png" width="387" />
 
 ```haskell
-game developer who loves writing code & linux enthusiast.
+developer who loves writing code & linux enthusiast.
 ---------------------------------------------------------
 os        • fedora 40
 term      • terminator
