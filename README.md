@@ -1,15 +1,22 @@
-### [Muhamad Alfarizi](https://github.com/ALZEE23) Here
+##
+<img align="left" src="https://github.com/ALZEE23.png" width="400" />
 
-Student at SMKN 1 CIOMAS, Indonesia. A game developer who loves writing c# code & linux enthusiast.
+```haskell
+game developer who loves writing code & linux enthusiast.
+---------------------------------------------------------
+os        • fedora 40
+term      • terminator
+shell     • zsh
+wms       • pop!_os
+interest  • graphic programming
+          • api
+          • fullstack website
+          • linux
+          • machine learning
+          • game design
+```
 
-- Graphic Programmer
-- Api 
-- Game Mechanic
-- Fullstack Web
-- Linux
-- Machine Learning
-
-## Skills:
+skills:
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
@@ -22,7 +29,8 @@ Student at SMKN 1 CIOMAS, Indonesia. A game developer who loves writing c# code 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
-
+##
+<!--
 ## I am open to any collaboration work:
 
 <p align = "center">
