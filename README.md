@@ -3,7 +3,7 @@
 
 ```haskell
 developer who loves linux & writing code.
-----------------------------------------------------   
+-----------------------------------------      
 os        • fedora 40
 term      • terminator
 shell     • zsh
