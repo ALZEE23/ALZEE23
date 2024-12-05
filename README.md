@@ -1,8 +1,8 @@
 ##
-<img align="left" src="https://github.com/ALZEE23.png" width="420" />
+<img align="left" src="https://github.com/ALZEE23.png" width="418" />
 
 ```haskell
-developer who loves writing code & linux enthusiast.
+developer who loves linux & writing code.
 ----------------------------------------------------   
 os        • fedora 40
 term      • terminator
