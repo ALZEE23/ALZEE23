@@ -7,7 +7,7 @@ developer who loves linux & writing code.
 os        • fedora 40
 term      • terminator
 shell     • zsh
-wms       • pop!_os
+wms       • pop shell
 interest  • graphic programming
           • api
           • fullstack website
