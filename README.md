@@ -1,5 +1,5 @@
 ##
-<img align="left" src="https://github.com/ALZEE23.png" width="445" />
+<img align="left" src="https://github.com/ALZEE23.png" width="447" />
 
 ```haskell
 developer who loves linux & writing code.
@@ -16,7 +16,7 @@ interest  • graphic programming
           • game design
 ```
 ```
-skills: fullstack programmer, game programmer, game designer 
+skills: fullstack programmer, game programmer 
 ```
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
