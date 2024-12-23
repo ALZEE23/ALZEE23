@@ -9,7 +9,7 @@ term      • terminator
 shell     • zsh
 wms       • pop shell
 interest  • graphic programming
-          • api
+          • pentesting
           • fullstack website
           • linux
           • machine learning
