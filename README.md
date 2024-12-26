@@ -1,9 +1,9 @@
 ##
-<img align="left" src="https://github.com/ALZEE23.png" width="474" />
+<img align="left" src="https://github.com/ALZEE23.png" width="476" />
 
 ```haskell
-developer who loves linux & writing code.
------------------------------------------      
+developer who loves linux & writing code
+----------------------------------------        
 os        • fedora 40
 term      • terminator
 shell     • zsh
