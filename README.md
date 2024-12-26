@@ -1,5 +1,5 @@
 ##
-<img align="left" src="https://github.com/ALZEE23.png" width="448.9" />
+<img align="left" src="https://github.com/ALZEE23.png" width="448.7" />
 
 ```haskell
 developer who loves linux & writing code.
