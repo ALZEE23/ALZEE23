@@ -14,7 +14,8 @@ interest  • graphic programming
           • linux
           • machine learning
           • game design
-
+```
+```haskell
 skills    • fullstack & game programmer
 ```
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
