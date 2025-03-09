@@ -10,10 +10,10 @@ shell     • zsh
 wms       • pop shell
 interest  • graphic programming
           • pentesting
-          • fullstack website
-          • linux
+          • website & blockchain
+          • digital audio
           • machine learning
-          • game design
+          • game design & asset
 ```
 ```haskell
 skills    • fullstack & game programmer
