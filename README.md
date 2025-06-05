@@ -11,7 +11,7 @@ wms       • pop shell
 interest  • graphic programming
           • pentesting
           • website & blockchain
-          • digital audio
+          • guitar & daw
           • machine learning
           • game design & asset
 ```
