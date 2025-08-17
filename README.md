@@ -7,7 +7,7 @@ developer who loves linux & writing code
 os        • fedora 41
 term      • terminator
 shell     • zsh
-wms       • pop shell
+wms       • gnome shell
 interest  • graphic programming
           • pentesting
           • website & blockchain
