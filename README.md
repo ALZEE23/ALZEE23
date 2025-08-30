@@ -12,7 +12,7 @@ interest  • graphic programming
           • pentesting
           • website & blockchain
           • guitar & daw
-          • machine learning
+          • machine learning & data science
           • game design & asset
 ```
 ```haskell
