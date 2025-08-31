@@ -2,7 +2,7 @@
 <img align="left" src="https://github.com/ALZEE23.png" width="479" />
 
 ```haskell
-developer who loves linux & writing code
+I love coding and doing some nerdy stuff
 ----------------------------------------
 os        • fedora 41
 term      • terminator
